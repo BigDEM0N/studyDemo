@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.avgkin</groupId>
+        <artifactId>studyDemo-Dubbo</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>dubbo-demo03-protobuf</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>dubbo-protobuf-api</module>
+        <module>dubbo-protobuf-consumer</module>
+        <module>dubbo-protobuf-provider</module>
+    </modules>
+
+    <properties>
+        <dubbo.version>3.3.0-beta.1</dubbo.version>
+        <junit.version>4.13.1</junit.version>
+        <spring-boot.version>2.7.8</spring-boot.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <source.level>1.8</source.level>
+        <target.level>1.8</target.level>
+        <grpc.version>1.54.1</grpc.version>
+        <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
+        <protoc.version>3.22.3</protoc.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+</project>

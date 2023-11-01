@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/dubbo-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/dubbo-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/dubbo-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/dubbo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo02-springboot/dubbo-boot-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo02-springboot/dubbo-boot-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo02-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo02-springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo03-protobuf/dubbo-protobuf-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo03-protobuf/dubbo-protobuf-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo03-protobuf/dubbo-protobuf-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo03-protobuf/dubbo-protobuf-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo03-protobuf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-demo03-protobuf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/studyDemo-zookeeper/src/main/java" charset="UTF-8" />

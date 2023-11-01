@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: DUBBO-BOOT-PROVIDER
+dubbo:
+  protocol:
+    port: -1
+    name: dubbo
+  registry:
+    address: zookeeper://${zookeeper.address:127.0.0.1}:2181
